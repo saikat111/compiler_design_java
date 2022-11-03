@@ -6,7 +6,6 @@ public class SeparateslatterDegitChar {
         numberOfdigits(input);
         System.out.println();
         numberOfWords(input);
-
     }
     private static void numberOfWords(String s) {
         System.out.print("words :");
@@ -14,7 +13,6 @@ public class SeparateslatterDegitChar {
         for ( String ss : parts) {
             System.out.print(ss + " ");
         }
-
     }
 
     private static void numberOfdigits(String s) {
@@ -29,9 +27,6 @@ public class SeparateslatterDegitChar {
                 }
             }
         }
-
-
-
     }
 
     static void numberOfcharandLatter(String s){
@@ -46,7 +41,5 @@ public class SeparateslatterDegitChar {
                 }
             }
         }
-
-
     }
 }

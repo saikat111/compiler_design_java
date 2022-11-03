@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec8963d-d417-4645-9afc-b6054ec01913" name="Changes" comment="count latter, digit, words">
-      <change afterPath="$PROJECT_DIR$/src/SeparateslatterDegitChar.java" afterDir="false" />
+    <list default="true" id="cec8963d-d417-4645-9afc-b6054ec01913" name="Changes" comment="Separates latter Digit Char">
+      <change afterPath="$PROJECT_DIR$/src/CountVowelAndConsonants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeparateslatterDegitChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeparateslatterDegitChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H39AM4tWpipjtRCpIbzbywDCd5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,9 +40,16 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SeparateslatterDegitChar">
+  <component name="RunManager" selected="Application.CountVowelAndConsonants">
     <configuration name="CountNumberOfWordsLattersDigitsCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountNumberOfWordsLattersDigitsCharacters" />
+      <module name="compiler_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountVowelAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountVowelAndConsonants" />
       <module name="compiler_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountVowelAndConsonants" />
         <item itemvalue="Application.SeparateslatterDegitChar" />
         <item itemvalue="Application.CountNumberOfWordsLattersDigitsCharacters" />
       </list>
@@ -82,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667509413236</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Separates latter Digit Char">
+      <created>1667510167197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667510167197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="count latter, digit, words" />
-    <option name="LAST_COMMIT_MESSAGE" value="count latter, digit, words" />
+    <MESSAGE value="Separates latter Digit Char" />
+    <option name="LAST_COMMIT_MESSAGE" value="Separates latter Digit Char" />
   </component>
 </project>

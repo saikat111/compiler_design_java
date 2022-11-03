@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec8963d-d417-4645-9afc-b6054ec01913" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="cec8963d-d417-4645-9afc-b6054ec01913" name="Changes" comment="count latter, digit, words">
+      <change afterPath="$PROJECT_DIR$/src/SeparateslatterDegitChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountNumberWordsLattersDigitsCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountNumberOfWordsLattersDigitsCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SeparateslatterDegitChar">
     <configuration name="CountNumberOfWordsLattersDigitsCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountNumberOfWordsLattersDigitsCharacters" />
       <module name="compiler_java" />
@@ -46,8 +45,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeparateslatterDegitChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeparateslatterDegitChar" />
+      <module name="compiler_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeparateslatterDegitChar" />
         <item itemvalue="Application.CountNumberOfWordsLattersDigitsCharacters" />
       </list>
     </recent_temporary>
@@ -68,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667503053490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="count latter, digit, words">
+      <created>1667509413236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667509413236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="count latter, digit, words" />
+    <option name="LAST_COMMIT_MESSAGE" value="count latter, digit, words" />
   </component>
 </project>
